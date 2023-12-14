@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Instagram Clonee"
+rootProject.name = "instagram clone"
 include(":app")
  
